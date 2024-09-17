@@ -10,7 +10,7 @@ Then make a front-end app in react to allow users to sign up with their email ad
 
 ## Files
 React app template create from command
-> npx create-react-app ThangDang-app
+> npx create-react-app YourProject-app
 
 Main modified files are: 
 - scr: App.js, thermostat.js
